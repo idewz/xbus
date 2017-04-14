@@ -1,0 +1,36 @@
+{
+  "name": "xbus-api",
+  "version": "1.0.0",
+  "description": "yet another NextBus API wrapper",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src/ -d lib/",
+    "flow": "flow",
+    "prepublish": "npm run build",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idewz/xbus-api.git"
+  },
+  "keywords": [
+    "bus",
+    "schedule",
+    "transit",
+    "real-time"
+  ],
+  "author": "Siwadon Saosoong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idewz/xbus-api/issues"
+  },
+  "homepage": "https://github.com/idewz/xbus-api#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "chai": "^3.5.0",
+    "flow-bin": "^0.44.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0"
+  }
+}
