@@ -27,6 +27,7 @@
   "homepage": "https://github.com/idewz/xbus-api#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
     "babel-preset-flow": "^6.23.0",
     "chai": "^3.5.0",
     "flow-bin": "^0.44.0",
