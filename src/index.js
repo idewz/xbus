@@ -40,11 +40,18 @@ module.exports = class XBus {
         return res.route;
     }
 
-    async getRouteConfig(id, route) {
-        const qs = { command: 'routeConfig', a: id, r: route };
+    async getRouteConfig(id, routeId) {
+        const qs = { command: 'routeConfig', a: id, r: routeId };
         const res = await this.fetch(qs);
 
         return res.route;
+    }
+
+    async getPredictions(id, stopId) {
+        const qs = { command: 'predictions', a: id, stopId: stopId };
+        const res = await this.fetch(qs);
+
+        return res.predictions;
     }
 };
 

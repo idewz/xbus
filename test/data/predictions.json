@@ -1,0 +1,157 @@
+{
+  "predictions": [
+    {
+      "agencyTitle": "San Francisco Muni",
+      "routeTag": "28",
+      "routeTitle": "28-19th Avenue",
+      "direction": {
+        "title": "Outbound to Daly City BART",
+        "prediction": [
+          {
+            "isDeparture": "false",
+            "minutes": "12",
+            "seconds": "775",
+            "tripTag": "7366771",
+            "vehicle": "8204",
+            "block": "2811",
+            "dirTag": "28___O_F00",
+            "epochTime": "1492298923939"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "18",
+            "seconds": "1096",
+            "tripTag": "7366772",
+            "vehicle": "8175",
+            "block": "2832",
+            "dirTag": "28___O_F00",
+            "epochTime": "1492299244800"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "25",
+            "seconds": "1549",
+            "tripTag": "7366773",
+            "vehicle": "8361",
+            "block": "2830",
+            "dirTag": "28___O_F00",
+            "epochTime": "1492299697551"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "30",
+            "seconds": "1831",
+            "tripTag": "7366774",
+            "vehicle": "8222",
+            "block": "2826",
+            "dirTag": "28___O_F00",
+            "epochTime": "1492299980379"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "38",
+            "delayed": "true",
+            "seconds": "2301",
+            "tripTag": "7366775",
+            "vehicle": "8313",
+            "block": "2803",
+            "slowness": "0.350",
+            "dirTag": "28___O_F00",
+            "epochTime": "1492300450273"
+          }
+        ]
+      },
+      "stopTitle": "19th Ave & Holloway Ave",
+      "stopTag": "3356"
+    },
+    {
+      "agencyTitle": "San Francisco Muni",
+      "routeTag": "91",
+      "routeTitle": "91-Owl",
+      "stopTitle": "19th Ave & Holloway Ave",
+      "stopTag": "3356",
+      "dirTitleBecauseNoPredictions": "Inbound to S.F. State University"
+    },
+    {
+      "agencyTitle": "San Francisco Muni",
+      "routeTag": "M_OWL",
+      "routeTitle": "M-Owl",
+      "stopTitle": "19th Ave & Holloway Ave",
+      "stopTag": "3356",
+      "dirTitleBecauseNoPredictions": "Outbound to Balboa Park"
+    },
+    {
+      "agencyTitle": "San Francisco Muni",
+      "routeTag": "29",
+      "routeTitle": "29-Sunset",
+      "direction": {
+        "title": "Outbound to Paul + Third Street",
+        "prediction": [
+          {
+            "isDeparture": "false",
+            "minutes": "8",
+            "seconds": "497",
+            "tripTag": "7368288",
+            "vehicle": "8822",
+            "block": "2905",
+            "dirTag": "29___O_F00",
+            "epochTime": "1492298646331"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "22",
+            "seconds": "1343",
+            "tripTag": "7368242",
+            "vehicle": "8813",
+            "block": "2911",
+            "dirTag": "29___O_F00",
+            "epochTime": "1492299491883"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "38",
+            "seconds": "2322",
+            "tripTag": "7368299",
+            "vehicle": "8876",
+            "block": "2912",
+            "dirTag": "29___O_F00",
+            "epochTime": "1492300470520"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "53",
+            "seconds": "3234",
+            "tripTag": "7368244",
+            "vehicle": "8743",
+            "affectedByLayover": "true",
+            "block": "2907",
+            "dirTag": "29___O_F00",
+            "epochTime": "1492301383206"
+          },
+          {
+            "isDeparture": "false",
+            "minutes": "68",
+            "seconds": "4134",
+            "tripTag": "7368301",
+            "vehicle": "8803",
+            "affectedByLayover": "true",
+            "block": "2909",
+            "dirTag": "29___O_F00",
+            "epochTime": "1492302283206"
+          }
+        ]
+      },
+      "stopTitle": "19th Ave & Holloway Ave",
+      "stopTag": "3356"
+    },
+    {
+      "agencyTitle": "San Francisco Muni",
+      "routeTag": "28R",
+      "routeTitle": "28R-19th Avenue Rapid",
+      "stopTitle": "19th Ave & Holloway Ave",
+      "stopTag": "3356",
+      "dirTitleBecauseNoPredictions": "Outbound to Balboa Park"
+    }
+  ],
+  "copyright": "All data copyright San Francisco Muni 2017."
+}

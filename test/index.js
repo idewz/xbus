@@ -4,6 +4,7 @@ var should = require('chai').should(),
     nock = require('nock'),
     XBus = require('../lib/index'),
     agencyList = require('./data/agencyList.json'),
+    predictions = require('./data/predictions.json'),
     routeList = require('./data/routeList.json'),
     routeConfig = require('./data/routeConfig.json');
 
@@ -17,7 +18,7 @@ describe('agencies', () => {
             .reply(200, agencyList);
     });
 
-    it('get agencies list', async function () {
+    it('get agencies list', async () => {
         const agencies = await xbus.getAgencies();
         agencies.length.should.equal(63);
     });
@@ -29,24 +30,27 @@ describe('agencies', () => {
 });
 
 describe('route', () => {
+    const id = 'sf-muni';
+    const routeId = '28';
+
     beforeEach(() => {
         nock('http://webservices.nextbus.com')
             .get('/service/publicJSONFeed')
-            .query({ command: 'routeList', a: 'sf-muni' })
+            .query({ command: 'routeList', a: id })
             .reply(200, routeList);
         nock('http://webservices.nextbus.com')
             .get('/service/publicJSONFeed')
-            .query({ command: 'routeConfig', a: 'sf-muni', r: '28' })
+            .query({ command: 'routeConfig', a: id, r: routeId })
             .reply(200, routeConfig);
     });
 
-    it('get routes list', async function () {
-        const routes = await xbus.getRoutes('sf-muni');
+    it('get routes list', async () => {
+        const routes = await xbus.getRoutes(id);
         routes.length.should.equal(83);
     });
 
-    it('get route config', async function () {
-        const route = await xbus.getRouteConfig('sf-muni', '28');
+    it('get route config', async () => {
+        const route = await xbus.getRouteConfig(id, routeId);
 
         route.title.should.equal('28-19th Avenue');
         route.direction.length.should.equal(2);
@@ -55,4 +59,23 @@ describe('route', () => {
         route.lonMax.should.exist;
         route.lonMin.should.exist;
     });
+});
+
+describe('predictions', () => {
+    const command = 'predictions';
+    const id = 'sf-muni';
+    const stopId = 13356;
+
+    beforeEach(() => {
+        nock('http://webservices.nextbus.com')
+            .get('/service/publicJSONFeed')
+            .query({ command: command, a: id, stopId: stopId })
+            .reply(200, predictions);
+    });
+
+    it('get predictions', async () => {
+        const predictionList = await xbus.getPredictions(id, stopId);
+
+        // TODO: not sure what we need now, but we get the data
+    })
 });
