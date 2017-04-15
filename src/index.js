@@ -9,12 +9,10 @@ module.exports = class XBus {
         this.base_url = 'http://webservices.nextbus.com/service/publicJSONFeed';
     }
 
-    async getAgencies() {
-        const qs = { command: 'agencyList' };
-
+    async fetch(qs) {
         try {
             const res = await request.get(this.base_url).query(qs);
-            return res.body.agency;
+            return res.body;
         }
         catch (err) {
             console.error(err);
@@ -22,10 +20,24 @@ module.exports = class XBus {
         }
     }
 
-    async getAgency(tag) {
+    async getAgencies() {
+        const qs = { command: 'agencyList' };
+        const res = await this.fetch(qs);
+
+        return res.agency;
+    }
+
+    async getAgency(id) {
         const agencies = await this.getAgencies();
 
-        return agencies.find(a => a.tag === tag);
+        return agencies.find(a => a.tag === id);
+    }
+
+    async getRoutes(id) {
+        const qs = { command: 'routeList', a: id };
+        const res = await this.fetch(qs);
+
+        return res.route;
     }
 };
 
