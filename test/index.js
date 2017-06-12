@@ -79,3 +79,13 @@ describe('predictions', () => {
         // TODO: not sure what we need now, but we get the data
     })
 });
+
+describe('nearby stops', () => {
+    const location = { lat: 37.719777, lng: -122.470767 };
+
+    it('return n nearest stop from the location', async () => {
+        const stops = await xbus.getNearbyStops(location, 4);
+        stops[0].name.should.equal("Garfield St & Beverly St");
+        stops[0].id.should.equal("14245");
+    });
+});
