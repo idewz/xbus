@@ -6,7 +6,10 @@ var should = require('chai').should(),
     agencyList = require('./data/agencyList.json'),
     predictions = require('./data/predictions.json'),
     routeList = require('./data/routeList.json'),
-    routeConfig = require('./data/routeConfig.json');
+    routeListSmall = require('./data/routeList-small.json'),
+    routeConfig = require('./data/routeConfig.json'),
+    routeConfig28 = require('./data/routeConfig-28.json'),
+    routeConfig29 = require('./data/routeConfig-29.json');
 
 var xbus = new XBus();
 
@@ -81,10 +84,29 @@ describe('predictions', () => {
 });
 
 describe('nearby stops', () => {
+    const id = 'sf-muni2';
     const location = { lat: 37.719777, lng: -122.470767 };
+
+    beforeEach(() => {
+        nock('http://webservices.nextbus.com')
+            .get('/service/publicJSONFeed')
+            .query({ command: 'routeList', a: id })
+            .reply(200, routeListSmall);
+
+        nock('http://webservices.nextbus.com')
+            .get('/service/publicJSONFeed')
+            .query({ command: 'routeConfig', a: id, r: 28 })
+            .reply(200, routeConfig28);
+
+        nock('http://webservices.nextbus.com')
+            .get('/service/publicJSONFeed')
+            .query({ command: 'routeConfig', a: id, r: 29 })
+            .reply(200, routeConfig29);
+    });
 
     it('return n nearest stop from the location', async () => {
         const stops = await xbus.getNearbyStops(location, 4);
+        stops.length.should.equal(4);
         stops[0].name.should.equal("Garfield St & Beverly St");
         stops[0].id.should.equal("14245");
     });

@@ -1,0 +1,3577 @@
+{
+  "route": {
+    "latMax": "37.7922199",
+    "stop": [
+      {
+        "lon": "-122.48119",
+        "title": "Bowley Blvd & Lincoln St",
+        "stopId": "13706",
+        "tag": "3706",
+        "lat": "37.7922199"
+      },
+      {
+        "lon": "-122.48226",
+        "title": "Baker Beach Parking Lot",
+        "stopId": "13023",
+        "tag": "3023",
+        "lat": "37.7902499"
+      },
+      {
+        "lon": "-122.4826199",
+        "title": "Lincoln Blvd & Bowley Ave",
+        "stopId": "13705",
+        "tag": "3705",
+        "lat": "37.7884699"
+      },
+      {
+        "lon": "-122.4853599",
+        "title": "25th Ave & El Camino Del Mar",
+        "stopId": "13498",
+        "tag": "3498",
+        "lat": "37.78737"
+      },
+      {
+        "lon": "-122.48524",
+        "title": "25th Ave & Lake St",
+        "stopId": "13502",
+        "tag": "3502",
+        "lat": "37.78587"
+      },
+      {
+        "lon": "-122.4851",
+        "title": "25th Ave & California St",
+        "stopId": "13491",
+        "tag": "3491",
+        "lat": "37.784"
+      },
+      {
+        "lon": "-122.4849699",
+        "title": "25th Ave & Clement St",
+        "stopId": "13495",
+        "tag": "3495",
+        "lat": "37.7821499"
+      },
+      {
+        "lon": "-122.4848399",
+        "title": "25th Ave & Geary Blvd",
+        "stopId": "13500",
+        "tag": "3500",
+        "lat": "37.7802599"
+      },
+      {
+        "lon": "-122.48456",
+        "title": "25th Ave & Balboa St",
+        "stopId": "13489",
+        "tag": "3489",
+        "lat": "37.77642"
+      },
+      {
+        "lon": "-122.48429",
+        "title": "25th Ave & Fulton St",
+        "stopId": "13499",
+        "tag": "3499",
+        "lat": "37.77269"
+      },
+      {
+        "lon": "-122.47761",
+        "title": "Lincoln Way & 19th Ave",
+        "stopId": "15309",
+        "tag": "5309",
+        "lat": "37.7655299"
+      },
+      {
+        "lon": "-122.4796999",
+        "title": "Lincoln Way & 21st Ave",
+        "stopId": "15310",
+        "tag": "5310",
+        "lat": "37.76543"
+      },
+      {
+        "lon": "-122.4818399",
+        "title": "Lincoln Way & 23rd Ave",
+        "stopId": "15312",
+        "tag": "5312",
+        "lat": "37.76533"
+      },
+      {
+        "lon": "-122.4839899",
+        "title": "Lincoln Way & 25th Ave",
+        "stopId": "15314",
+        "tag": "5314",
+        "lat": "37.76522"
+      },
+      {
+        "lon": "-122.48614",
+        "title": "Lincoln Way & 27th Ave",
+        "stopId": "15316",
+        "tag": "5316",
+        "lat": "37.7651299"
+      },
+      {
+        "lon": "-122.48827",
+        "title": "Lincoln Way & 29th Ave",
+        "stopId": "15318",
+        "tag": "5318",
+        "lat": "37.7650299"
+      },
+      {
+        "lon": "-122.4904199",
+        "title": "Lincoln Way & 31st Ave",
+        "stopId": "15320",
+        "tag": "5320",
+        "lat": "37.76494"
+      },
+      {
+        "lon": "-122.49256",
+        "title": "Lincoln Way & 33rd Ave",
+        "stopId": "15321",
+        "tag": "5321",
+        "lat": "37.7648399"
+      },
+      {
+        "lon": "-122.4947099",
+        "title": "Lincoln Way & 35th Ave",
+        "stopId": "15323",
+        "tag": "5323",
+        "lat": "37.76475"
+      },
+      {
+        "lon": "-122.4966199",
+        "title": "37th Ave & Lincoln Way",
+        "stopId": "13562",
+        "tag": "3562",
+        "lat": "37.7643599"
+      },
+      {
+        "lon": "-122.4959499",
+        "title": "Sunset Blvd & Irving St",
+        "stopId": "16528",
+        "tag": "6528",
+        "lat": "37.7624999"
+      },
+      {
+        "lon": "-122.4958499",
+        "title": "Sunset Blvd & Judah St",
+        "stopId": "16529",
+        "tag": "6529",
+        "lat": "37.7610099"
+      },
+      {
+        "lon": "-122.4957099",
+        "title": "Sunset Blvd & Kirkham St",
+        "stopId": "16531",
+        "tag": "6531",
+        "lat": "37.7591299"
+      },
+      {
+        "lon": "-122.49558",
+        "title": "Sunset Blvd & Lawton St",
+        "stopId": "16535",
+        "tag": "6535",
+        "lat": "37.75727"
+      },
+      {
+        "lon": "-122.4954599",
+        "title": "Sunset Blvd & Moraga St",
+        "stopId": "16537",
+        "tag": "6537",
+        "lat": "37.7553999"
+      },
+      {
+        "lon": "-122.49532",
+        "title": "Sunset Blvd & Noriega St",
+        "stopId": "16539",
+        "tag": "6539",
+        "lat": "37.7535399"
+      },
+      {
+        "lon": "-122.4951699",
+        "title": "Sunset Blvd & Ortega St",
+        "stopId": "16544",
+        "tag": "6544",
+        "lat": "37.7513099"
+      },
+      {
+        "lon": "-122.49506",
+        "title": "Sunset Blvd & Pacheco St",
+        "stopId": "16545",
+        "tag": "6545",
+        "lat": "37.74981"
+      },
+      {
+        "lon": "-122.49491",
+        "title": "Sunset Blvd & Quintara St",
+        "stopId": "16548",
+        "tag": "6548",
+        "lat": "37.74758"
+      },
+      {
+        "lon": "-122.4947999",
+        "title": "Sunset Blvd & Rivera St",
+        "stopId": "16549",
+        "tag": "6549",
+        "lat": "37.7460799"
+      },
+      {
+        "lon": "-122.49467",
+        "title": "Sunset Blvd & Santiago St",
+        "stopId": "16553",
+        "tag": "6553",
+        "lat": "37.74422"
+      },
+      {
+        "lon": "-122.49454",
+        "title": "Sunset Blvd & Taraval St",
+        "stopId": "16555",
+        "tag": "6555",
+        "lat": "37.74235"
+      },
+      {
+        "lon": "-122.4943799",
+        "title": "Sunset Blvd & Ulloa St",
+        "stopId": "16558",
+        "tag": "6558",
+        "lat": "37.7401199"
+      },
+      {
+        "lon": "-122.4942799",
+        "title": "Sunset Blvd & Vicente St",
+        "stopId": "16559",
+        "tag": "6559",
+        "lat": "37.7386199"
+      },
+      {
+        "lon": "-122.4941499",
+        "title": "Sunset Blvd & Wawona St",
+        "stopId": "16561",
+        "tag": "6561",
+        "lat": "37.7367599"
+      },
+      {
+        "lon": "-122.49406",
+        "title": "Sunset Blvd & Yorba St",
+        "stopId": "16564",
+        "tag": "6564",
+        "lat": "37.73478"
+      },
+      {
+        "lon": "-122.49386",
+        "title": "Sunset Blvd & Ocean Ave",
+        "stopId": "16541",
+        "tag": "6541",
+        "lat": "37.73203"
+      },
+      {
+        "lon": "-122.4936499",
+        "title": "Sunset Blvd & Lake Merced Blvd",
+        "stopId": "16534",
+        "tag": "6534",
+        "lat": "37.7297999"
+      },
+      {
+        "lon": "-122.48629",
+        "title": "Lake Merced & Middlefield Dr",
+        "stopId": "14839",
+        "tag": "4839",
+        "lat": "37.72944"
+      },
+      {
+        "lon": "-122.48331",
+        "title": "Winston Dr & Lake Merced Blvd",
+        "stopId": "16955",
+        "tag": "6955",
+        "lat": "37.72698"
+      },
+      {
+        "lon": "-122.47867",
+        "title": "Winston Dr & Buckingham Way",
+        "stopId": "16953",
+        "tag": "6953",
+        "lat": "37.728"
+      },
+      {
+        "lon": "-122.4757399",
+        "title": "Winston Dr & 20th Ave",
+        "stopId": "16951",
+        "tag": "6951",
+        "lat": "37.72688"
+      },
+      {
+        "lon": "-122.4753",
+        "title": "19th Ave & Holloway Ave",
+        "stopId": "13356",
+        "tag": "3356",
+        "lat": "37.7211099"
+      },
+      {
+        "lon": "-122.4759399",
+        "title": "Crespi Dr & Varela Ave",
+        "stopId": "14207",
+        "tag": "4207",
+        "lat": "37.7200999"
+      },
+      {
+        "lon": "-122.475",
+        "title": "19th Ave & Holloway Ave",
+        "stopId": "13357",
+        "tag": "3357",
+        "lat": "37.72094"
+      },
+      {
+        "lon": "-122.4727099",
+        "title": "Holloway Ave & Junipero Serra",
+        "stopId": "15037",
+        "tag": "5037",
+        "lat": "37.72149"
+      },
+      {
+        "lon": "-122.4717999",
+        "title": "Holloway Ave & Beverly St",
+        "stopId": "15034",
+        "tag": "5034",
+        "lat": "37.72161"
+      },
+      {
+        "lon": "-122.4717399",
+        "title": "Beverly St & Garfield St",
+        "stopId": "13689",
+        "tag": "3689",
+        "lat": "37.7197299"
+      },
+      {
+        "lon": "-122.46995",
+        "title": "Garfield St & Byxbee St",
+        "stopId": "17325",
+        "tag": "7325",
+        "lat": "37.71959"
+      },
+      {
+        "lon": "-122.4681499",
+        "title": "Garfield St & Vernon St",
+        "stopId": "17326",
+        "tag": "7326",
+        "lat": "37.71959"
+      },
+      {
+        "lon": "-122.46545",
+        "title": "Garfield St & Victoria St",
+        "stopId": "14254",
+        "tag": "4254",
+        "lat": "37.7196099"
+      },
+      {
+        "lon": "-122.46364",
+        "title": "Garfield St & Bright St",
+        "stopId": "14247",
+        "tag": "4247",
+        "lat": "37.7197899"
+      },
+      {
+        "lon": "-122.46133",
+        "title": "Grafton Ave & Jules Ave",
+        "stopId": "14912",
+        "tag": "4912",
+        "lat": "37.71995"
+      },
+      {
+        "lon": "-122.4592899",
+        "title": "Grafton Ave & Capitol Ave",
+        "stopId": "14908",
+        "tag": "4908",
+        "lat": "37.71995"
+      },
+      {
+        "lon": "-122.4572499",
+        "title": "Grafton Ave & Granada Ave",
+        "stopId": "14910",
+        "tag": "4910",
+        "lat": "37.71996"
+      },
+      {
+        "lon": "-122.45623",
+        "title": "Grafton Ave & Plymouth Ave",
+        "stopId": "14915",
+        "tag": "4915",
+        "lat": "37.71996"
+      },
+      {
+        "lon": "-122.45604",
+        "title": "Plymouth Ave & Holloway Ave",
+        "stopId": "15962",
+        "tag": "5962",
+        "lat": "37.7217599"
+      },
+      {
+        "lon": "-122.45605",
+        "title": "Plymouth Ave & Ocean Ave",
+        "stopId": "15974",
+        "tag": "5974",
+        "lat": "37.72377"
+      },
+      {
+        "lon": "-122.45445",
+        "title": "Ocean Ave & Lee St",
+        "stopId": "15795",
+        "tag": "5795",
+        "lat": "37.72333"
+      },
+      {
+        "lon": "-122.4524499",
+        "title": "Ocean Ave & Geneva Ave",
+        "stopId": "17036",
+        "tag": "7036",
+        "lat": "37.7230299"
+      },
+      {
+        "lon": "-122.44929",
+        "title": "Ocean Ave & Howth St",
+        "stopId": "15791",
+        "tag": "5791",
+        "lat": "37.72286"
+      },
+      {
+        "lon": "-122.44675",
+        "title": "Ocean Ave & Balboa Park Bart",
+        "stopId": "15781",
+        "tag": "5781",
+        "lat": "37.7229499"
+      },
+      {
+        "lon": "-122.4443999",
+        "title": "Ocean Ave & San Jose St",
+        "stopId": "15805",
+        "tag": "5805",
+        "lat": "37.7229"
+      },
+      {
+        "lon": "-122.44124",
+        "title": "Ocean Ave & Otsego Ave",
+        "stopId": "15800",
+        "tag": "5800",
+        "lat": "37.7232599"
+      },
+      {
+        "lon": "-122.43853",
+        "title": "Ocean Ave & Cayuga Ave",
+        "stopId": "15783",
+        "tag": "5783",
+        "lat": "37.7235699"
+      },
+      {
+        "lon": "-122.43576",
+        "title": "Persia Ave & Mission St",
+        "stopId": "15913",
+        "tag": "5913",
+        "lat": "37.72294"
+      },
+      {
+        "lon": "-122.43456",
+        "title": "Persia Ave & Paris St",
+        "stopId": "15919",
+        "tag": "5919",
+        "lat": "37.72238"
+      },
+      {
+        "lon": "-122.4329599",
+        "title": "Persia Ave & Madrid St",
+        "stopId": "15911",
+        "tag": "5911",
+        "lat": "37.7216099"
+      },
+      {
+        "lon": "-122.43136",
+        "title": "Persia Ave & Naples St",
+        "stopId": "15917",
+        "tag": "5917",
+        "lat": "37.72085"
+      },
+      {
+        "lon": "-122.4294999",
+        "title": "Persia Ave & Athens St",
+        "stopId": "15906",
+        "tag": "5906",
+        "lat": "37.7201399"
+      },
+      {
+        "lon": "-122.42896",
+        "title": "Persia Ave & Moscow St",
+        "stopId": "15915",
+        "tag": "5915",
+        "lat": "37.7197"
+      },
+      {
+        "lon": "-122.42735",
+        "title": "Persia Ave & Prague St",
+        "stopId": "15921",
+        "tag": "5921",
+        "lat": "37.71893"
+      },
+      {
+        "lon": "-122.4224999",
+        "title": "Persia Ave & Brazil Ave",
+        "stopId": "15908",
+        "tag": "5908",
+        "lat": "37.71778"
+      },
+      {
+        "lon": "-122.4186299",
+        "title": "Mansell St & John Shelley --1 Dr",
+        "stopId": "15348",
+        "tag": "5348",
+        "lat": "37.7187199"
+      },
+      {
+        "lon": "-122.41426",
+        "title": "Mansell St & John F Shelley Dr--2",
+        "stopId": "15346",
+        "tag": "5346",
+        "lat": "37.71804"
+      },
+      {
+        "lon": "-122.41136",
+        "title": "Mansell St & Visitacion Ave",
+        "stopId": "15354",
+        "tag": "5354",
+        "lat": "37.7187699"
+      },
+      {
+        "lon": "-122.40906",
+        "title": "Mansell St & Dartmouth St",
+        "stopId": "15340",
+        "tag": "5340",
+        "lat": "37.7193799"
+      },
+      {
+        "lon": "-122.40709",
+        "title": "Mansell St & Hamilton St",
+        "stopId": "15344",
+        "tag": "5344",
+        "lat": "37.7198899"
+      },
+      {
+        "lon": "-122.40509",
+        "title": "Mansell St & Somerset St",
+        "stopId": "15351",
+        "tag": "5351",
+        "lat": "37.7204199"
+      },
+      {
+        "lon": "-122.4041",
+        "title": "Mansell St & Goettingen St",
+        "stopId": "15341",
+        "tag": "5341",
+        "lat": "37.7206799"
+      },
+      {
+        "lon": "-122.40312",
+        "title": "Mansell St & Brussels St",
+        "stopId": "15338",
+        "tag": "5338",
+        "lat": "37.7209299"
+      },
+      {
+        "lon": "-122.40115",
+        "title": "Mansell St & San Bruno Ave",
+        "stopId": "15349",
+        "tag": "5349",
+        "lat": "37.7214399"
+      },
+      {
+        "lon": "-122.4018599",
+        "title": "San Bruno Ave & Paul Ave",
+        "stopId": "16363",
+        "tag": "6363",
+        "lat": "37.7236499"
+      },
+      {
+        "lon": "-122.4001999",
+        "title": "Paul Ave & Wheat St",
+        "stopId": "15905",
+        "tag": "5905",
+        "lat": "37.7233999"
+      },
+      {
+        "lon": "-122.3973799",
+        "title": "Paul Ave & Gould St",
+        "stopId": "15903",
+        "tag": "5903",
+        "lat": "37.7227299"
+      },
+      {
+        "lon": "-122.39634",
+        "title": "Paul Ave & Carr St",
+        "stopId": "15900",
+        "tag": "5900",
+        "lat": "37.72249"
+      },
+      {
+        "lon": "-122.39484",
+        "title": "Fitzgerald Ave & Keith St",
+        "stopId": "134648",
+        "tag": "34648",
+        "lat": "37.7228999"
+      },
+      {
+        "lon": "-122.39484",
+        "title": "Fitzgerald Ave & Keith St",
+        "stopId": "14648",
+        "tag": "4648",
+        "lat": "37.7228999"
+      },
+      {
+        "lon": "-122.39332",
+        "title": "Fitzgerald Ave & Jennings St",
+        "stopId": "14647",
+        "tag": "4647",
+        "lat": "37.72203"
+      },
+      {
+        "lon": "-122.3914499",
+        "title": "Fitzgerald Ave & Ingalls St",
+        "stopId": "14646",
+        "tag": "4646",
+        "lat": "37.7209699"
+      },
+      {
+        "lon": "-122.3895899",
+        "title": "Fitzgerald Ave & Hawes St",
+        "stopId": "14645",
+        "tag": "4645",
+        "lat": "37.71992"
+      },
+      {
+        "lon": "-122.38827",
+        "title": "Gilman Ave & Griffith St",
+        "stopId": "14784",
+        "tag": "4784",
+        "lat": "37.71823"
+      },
+      {
+        "lon": "-122.38699",
+        "title": "Gilman Ave & Giants Dr",
+        "stopId": "15955",
+        "tag": "5955",
+        "lat": "37.7175"
+      },
+      {
+        "lon": "-122.38921",
+        "title": "Ingerson Ave & Griffith St",
+        "stopId": "15115",
+        "tag": "5115",
+        "lat": "37.71701"
+      },
+      {
+        "lon": "-122.3909999",
+        "title": "Ingerson Ave & Hawes St",
+        "stopId": "15116",
+        "tag": "5116",
+        "lat": "37.7180399"
+      },
+      {
+        "lon": "-122.39001",
+        "title": "Hawes St & Gilman Ave",
+        "stopId": "14976",
+        "tag": "4976",
+        "lat": "37.7192"
+      },
+      {
+        "lon": "-122.39173",
+        "title": "Gilman Ave & Ingalls St",
+        "stopId": "14785",
+        "tag": "4785",
+        "lat": "37.72035"
+      },
+      {
+        "lon": "-122.39359",
+        "title": "Gilman Ave & Jennings St",
+        "stopId": "14786",
+        "tag": "4786",
+        "lat": "37.72141"
+      },
+      {
+        "lon": "-122.39541",
+        "title": "Gilman Ave & 3rd St",
+        "stopId": "14783",
+        "tag": "4783",
+        "lat": "37.7224599"
+      },
+      {
+        "lon": "-122.39795",
+        "title": "Paul Ave & Gould St",
+        "stopId": "15902",
+        "tag": "5902",
+        "lat": "37.72301"
+      },
+      {
+        "lon": "-122.39908",
+        "title": "Paul Ave & Crane St",
+        "stopId": "15901",
+        "tag": "5901",
+        "lat": "37.72329"
+      },
+      {
+        "lon": "-122.4005899",
+        "title": "Paul Ave & Bayshore Blvd",
+        "stopId": "15899",
+        "tag": "5899",
+        "lat": "37.7236499"
+      },
+      {
+        "lon": "-122.4015799",
+        "title": "Paul Ave & San Bruno Ave",
+        "stopId": "15904",
+        "tag": "5904",
+        "lat": "37.7238799"
+      },
+      {
+        "lon": "-122.40139",
+        "title": "Mansell St & San Bruno Ave",
+        "stopId": "15350",
+        "tag": "5350",
+        "lat": "37.7215399"
+      },
+      {
+        "lon": "-122.40307",
+        "title": "Mansell St & Brussels St",
+        "stopId": "15337",
+        "tag": "5337",
+        "lat": "37.7210999"
+      },
+      {
+        "lon": "-122.4043399",
+        "title": "Mansell St & Goettingen St",
+        "stopId": "15342",
+        "tag": "5342",
+        "lat": "37.72077"
+      },
+      {
+        "lon": "-122.4051199",
+        "title": "Mansell St & Somerset St",
+        "stopId": "15352",
+        "tag": "5352",
+        "lat": "37.72053"
+      },
+      {
+        "lon": "-122.40692",
+        "title": "Mansell St & Hamilton St",
+        "stopId": "15343",
+        "tag": "5343",
+        "lat": "37.7200999"
+      },
+      {
+        "lon": "-122.40889",
+        "title": "Mansell St & Dartmouth St",
+        "stopId": "15339",
+        "tag": "5339",
+        "lat": "37.7195799"
+      },
+      {
+        "lon": "-122.41126",
+        "title": "Mansell St & University St",
+        "stopId": "15353",
+        "tag": "5353",
+        "lat": "37.7189599"
+      },
+      {
+        "lon": "-122.4144599",
+        "title": "Mansell St & John F Shelley Dr",
+        "stopId": "15345",
+        "tag": "5345",
+        "lat": "37.71812"
+      },
+      {
+        "lon": "-122.4187999",
+        "title": "Mansell St & John F Shelley Dr",
+        "stopId": "15347",
+        "tag": "5347",
+        "lat": "37.7188999"
+      },
+      {
+        "lon": "-122.42278",
+        "title": "Persia Ave & Brazil Ave",
+        "stopId": "15909",
+        "tag": "5909",
+        "lat": "37.7177899"
+      },
+      {
+        "lon": "-122.42706",
+        "title": "Persia Ave & Prague St",
+        "stopId": "15920",
+        "tag": "5920",
+        "lat": "37.71896"
+      },
+      {
+        "lon": "-122.42868",
+        "title": "Persia Ave & Moscow St",
+        "stopId": "15914",
+        "tag": "5914",
+        "lat": "37.71973"
+      },
+      {
+        "lon": "-122.4294699",
+        "title": "Persia Ave & Athens St",
+        "stopId": "15907",
+        "tag": "5907",
+        "lat": "37.7201099"
+      },
+      {
+        "lon": "-122.43107",
+        "title": "Persia Ave & Naples St",
+        "stopId": "15916",
+        "tag": "5916",
+        "lat": "37.72088"
+      },
+      {
+        "lon": "-122.4326699",
+        "title": "Persia Ave & Madrid St",
+        "stopId": "15910",
+        "tag": "5910",
+        "lat": "37.7216399"
+      },
+      {
+        "lon": "-122.43428",
+        "title": "Persia Ave & Paris St",
+        "stopId": "15918",
+        "tag": "5918",
+        "lat": "37.72241"
+      },
+      {
+        "lon": "-122.43584",
+        "title": "Persia Ave & Mission St",
+        "stopId": "15912",
+        "tag": "5912",
+        "lat": "37.7231499"
+      },
+      {
+        "lon": "-122.43867",
+        "title": "Ocean Ave & Cayuga Ave",
+        "stopId": "15782",
+        "tag": "5782",
+        "lat": "37.7236699"
+      },
+      {
+        "lon": "-122.4408199",
+        "title": "Ocean Ave & Otsego Ave",
+        "stopId": "17638",
+        "tag": "7638",
+        "lat": "37.72343"
+      },
+      {
+        "lon": "-122.44495",
+        "title": "Ocean Ave & San Jose Ave",
+        "stopId": "15804",
+        "tag": "5804",
+        "lat": "37.7229999"
+      },
+      {
+        "lon": "-122.44693",
+        "title": "Ocean Ave & I-280 On-Ramp",
+        "stopId": "17804",
+        "tag": "7804",
+        "lat": "37.7230299"
+      },
+      {
+        "lon": "-122.4497799",
+        "title": "Ocean Ave & Howth St",
+        "stopId": "15790",
+        "tag": "5790",
+        "lat": "37.7230199"
+      },
+      {
+        "lon": "-122.454",
+        "title": "Ocean Ave & Lee St",
+        "stopId": "15794",
+        "tag": "5794",
+        "lat": "37.72346"
+      },
+      {
+        "lon": "-122.4562299",
+        "title": "Plymouth Ave & Ocean Ave",
+        "stopId": "15975",
+        "tag": "5975",
+        "lat": "37.72364"
+      },
+      {
+        "lon": "-122.45623",
+        "title": "Plymouth Ave & Holloway Ave",
+        "stopId": "15961",
+        "tag": "5961",
+        "lat": "37.72193"
+      },
+      {
+        "lon": "-122.4562199",
+        "title": "Plymouth Ave & Grafton Ave",
+        "stopId": "15960",
+        "tag": "5960",
+        "lat": "37.7201099"
+      },
+      {
+        "lon": "-122.4570299",
+        "title": "Grafton Ave & Granada Ave",
+        "stopId": "17193",
+        "tag": "7193",
+        "lat": "37.7200999"
+      },
+      {
+        "lon": "-122.45907",
+        "title": "Grafton Ave & Capitol Ave",
+        "stopId": "17194",
+        "tag": "7194",
+        "lat": "37.7201"
+      },
+      {
+        "lon": "-122.4611099",
+        "title": "Grafton Ave & Jules Ave",
+        "stopId": "17195",
+        "tag": "7195",
+        "lat": "37.7201"
+      },
+      {
+        "lon": "-122.4634599",
+        "title": "Garfield St & Bright St",
+        "stopId": "14246",
+        "tag": "4246",
+        "lat": "37.71999"
+      },
+      {
+        "lon": "-122.46523",
+        "title": "Garfield St & Victoria St",
+        "stopId": "17196",
+        "tag": "7196",
+        "lat": "37.7197599"
+      },
+      {
+        "lon": "-122.4679399",
+        "title": "Garfield St & Vernon St",
+        "stopId": "14253",
+        "tag": "4253",
+        "lat": "37.71975"
+      },
+      {
+        "lon": "-122.46973",
+        "title": "Garfield St & Byxbee St",
+        "stopId": "14248",
+        "tag": "4248",
+        "lat": "37.7197399"
+      },
+      {
+        "lon": "-122.47153",
+        "title": "Garfield St & Beverly St",
+        "stopId": "14245",
+        "tag": "4245",
+        "lat": "37.7197199"
+      },
+      {
+        "lon": "-122.4729499",
+        "title": "Holloway Ave & Junipero Serra",
+        "stopId": "15036",
+        "tag": "5036",
+        "lat": "37.72159"
+      },
+      {
+        "lon": "-122.4751",
+        "title": "19th Ave & Holloway Ave",
+        "stopId": "10390",
+        "tag": "390",
+        "lat": "37.7211899"
+      },
+      {
+        "lon": "-122.47592",
+        "title": "Winston Dr & 20th Ave",
+        "stopId": "16950",
+        "tag": "6950",
+        "lat": "37.7270199"
+      },
+      {
+        "lon": "-122.47849",
+        "title": "Winston Dr & Buckingham Way",
+        "stopId": "16952",
+        "tag": "6952",
+        "lat": "37.72806"
+      },
+      {
+        "lon": "-122.4832999",
+        "title": "Winston Dr & Lake Merced Blvd",
+        "stopId": "16954",
+        "tag": "6954",
+        "lat": "37.72712"
+      },
+      {
+        "lon": "-122.4864",
+        "title": "Lake Merced & Middlefield Dr",
+        "stopId": "14838",
+        "tag": "4838",
+        "lat": "37.72963"
+      },
+      {
+        "lon": "-122.49352",
+        "title": "Sunset Blvd & Lake Merced Blvd",
+        "stopId": "16533",
+        "tag": "6533",
+        "lat": "37.73034"
+      },
+      {
+        "lon": "-122.49362",
+        "title": "Sunset Blvd & Ocean Ave",
+        "stopId": "16542",
+        "tag": "6542",
+        "lat": "37.73183"
+      },
+      {
+        "lon": "-122.49378",
+        "title": "Sunset Blvd & Yorba St",
+        "stopId": "16563",
+        "tag": "6563",
+        "lat": "37.73485"
+      },
+      {
+        "lon": "-122.4939099",
+        "title": "Sunset Blvd & Wawona St",
+        "stopId": "16562",
+        "tag": "6562",
+        "lat": "37.7365399"
+      },
+      {
+        "lon": "-122.4940799",
+        "title": "Sunset Blvd & Vicente St",
+        "stopId": "16560",
+        "tag": "6560",
+        "lat": "37.7383799"
+      },
+      {
+        "lon": "-122.4942099",
+        "title": "Sunset Blvd & Ulloa St",
+        "stopId": "16557",
+        "tag": "6557",
+        "lat": "37.7402399"
+      },
+      {
+        "lon": "-122.49435",
+        "title": "Sunset Blvd & Taraval St",
+        "stopId": "16556",
+        "tag": "6556",
+        "lat": "37.74211"
+      },
+      {
+        "lon": "-122.49448",
+        "title": "Sunset Blvd & Santiago St",
+        "stopId": "16554",
+        "tag": "6554",
+        "lat": "37.74398"
+      },
+      {
+        "lon": "-122.4945999",
+        "title": "Sunset Blvd & Rivera St",
+        "stopId": "16550",
+        "tag": "6550",
+        "lat": "37.7458399"
+      },
+      {
+        "lon": "-122.4947699",
+        "title": "Sunset Blvd & Quintara St",
+        "stopId": "16547",
+        "tag": "6547",
+        "lat": "37.7480699"
+      },
+      {
+        "lon": "-122.49487",
+        "title": "Sunset Blvd & Pacheco St",
+        "stopId": "16546",
+        "tag": "6546",
+        "lat": "37.74957"
+      },
+      {
+        "lon": "-122.49502",
+        "title": "Sunset Blvd & Ortega St",
+        "stopId": "16543",
+        "tag": "6543",
+        "lat": "37.7518"
+      },
+      {
+        "lon": "-122.49512",
+        "title": "Sunset Blvd & Noriega St",
+        "stopId": "16540",
+        "tag": "6540",
+        "lat": "37.7532999"
+      },
+      {
+        "lon": "-122.4952599",
+        "title": "Sunset Blvd & Moraga St",
+        "stopId": "16538",
+        "tag": "6538",
+        "lat": "37.7551599"
+      },
+      {
+        "lon": "-122.4953899",
+        "title": "Sunset Blvd & Lawton St",
+        "stopId": "16536",
+        "tag": "6536",
+        "lat": "37.7570299"
+      },
+      {
+        "lon": "-122.49552",
+        "title": "Sunset Blvd & Kirkham St",
+        "stopId": "16532",
+        "tag": "6532",
+        "lat": "37.75889"
+      },
+      {
+        "lon": "-122.49566",
+        "title": "Sunset Blvd & Judah St",
+        "stopId": "16530",
+        "tag": "6530",
+        "lat": "37.76077"
+      },
+      {
+        "lon": "-122.4957799",
+        "title": "Sunset Blvd & Irving St",
+        "stopId": "16527",
+        "tag": "6527",
+        "lat": "37.7626199"
+      },
+      {
+        "lon": "-122.49537",
+        "title": "36th Ave & Lincoln Way",
+        "stopId": "13561",
+        "tag": "3561",
+        "lat": "37.76456"
+      },
+      {
+        "lon": "-122.49341",
+        "title": "Lincoln Way & 34th Ave",
+        "stopId": "17853",
+        "tag": "7853",
+        "lat": "37.7647099"
+      },
+      {
+        "lon": "-122.4887099",
+        "title": "Lincoln Way & 30th Ave",
+        "stopId": "15319",
+        "tag": "5319",
+        "lat": "37.76488"
+      },
+      {
+        "lon": "-122.48551",
+        "title": "Lincoln Way & 27th Ave",
+        "stopId": "15317",
+        "tag": "5317",
+        "lat": "37.7650199"
+      },
+      {
+        "lon": "-122.4833599",
+        "title": "Lincoln Way & 25th Ave",
+        "stopId": "15315",
+        "tag": "5315",
+        "lat": "37.76511"
+      },
+      {
+        "lon": "-122.48163",
+        "title": "Lincoln Way & 23rd Ave",
+        "stopId": "15313",
+        "tag": "5313",
+        "lat": "37.7651999"
+      },
+      {
+        "lon": "-122.4794899",
+        "title": "Lincoln Way & 21st Ave",
+        "stopId": "15311",
+        "tag": "5311",
+        "lat": "37.76529"
+      },
+      {
+        "lon": "-122.47724",
+        "title": "Cross Over Dr & Lincoln St",
+        "stopId": "17758",
+        "tag": "7758",
+        "lat": "37.7655399"
+      },
+      {
+        "lon": "-122.48408",
+        "title": "Cross Over Dr & Fulton St",
+        "stopId": "16984",
+        "tag": "6984",
+        "lat": "37.7723499"
+      },
+      {
+        "lon": "-122.48436",
+        "title": "25th Ave & Balboa St",
+        "stopId": "13490",
+        "tag": "3490",
+        "lat": "37.77619"
+      },
+      {
+        "lon": "-122.4846199",
+        "title": "25th Ave & Geary Blvd",
+        "stopId": "13501",
+        "tag": "3501",
+        "lat": "37.7799299"
+      },
+      {
+        "lon": "-122.4847099",
+        "title": "25th Ave & Clement St",
+        "stopId": "13496",
+        "tag": "3496",
+        "lat": "37.7819499"
+      },
+      {
+        "lon": "-122.48485",
+        "title": "25th Ave & California St",
+        "stopId": "13492",
+        "tag": "3492",
+        "lat": "37.78381"
+      },
+      {
+        "lon": "-122.4850299",
+        "title": "25th Ave & Lake St",
+        "stopId": "13503",
+        "tag": "3503",
+        "lat": "37.7856899"
+      },
+      {
+        "lon": "-122.4851399",
+        "title": "25th Ave & El Camino Del Mar",
+        "stopId": "13497",
+        "tag": "3497",
+        "lat": "37.78754"
+      },
+      {
+        "lon": "-122.48246",
+        "title": "Lincoln Blvd & Bowley St",
+        "stopId": "15263",
+        "tag": "5263",
+        "lat": "37.78839"
+      },
+      {
+        "lon": "-122.48097",
+        "title": "Lincoln Blvd & Pershing Dr",
+        "stopId": "15269",
+        "tag": "5269",
+        "lat": "37.7920899"
+      },
+      {
+        "lon": "-122.48119",
+        "title": "Bowley Blvd & Lincoln St",
+        "stopId": "133706",
+        "tag": "33706",
+        "lat": "37.7922199"
+      }
+    ],
+    "title": "29-Sunset",
+    "lonMin": "-122.4966199",
+    "color": "ff6633",
+    "direction": [
+      {
+        "stop": [
+          {
+            "tag": "3706"
+          },
+          {
+            "tag": "3023"
+          },
+          {
+            "tag": "3705"
+          },
+          {
+            "tag": "3498"
+          },
+          {
+            "tag": "3502"
+          },
+          {
+            "tag": "3491"
+          },
+          {
+            "tag": "3495"
+          },
+          {
+            "tag": "3500"
+          },
+          {
+            "tag": "3489"
+          },
+          {
+            "tag": "3499"
+          },
+          {
+            "tag": "5309"
+          },
+          {
+            "tag": "5310"
+          },
+          {
+            "tag": "5312"
+          },
+          {
+            "tag": "5314"
+          },
+          {
+            "tag": "5316"
+          },
+          {
+            "tag": "5318"
+          },
+          {
+            "tag": "5320"
+          },
+          {
+            "tag": "5321"
+          },
+          {
+            "tag": "5323"
+          },
+          {
+            "tag": "3562"
+          },
+          {
+            "tag": "6528"
+          },
+          {
+            "tag": "6529"
+          },
+          {
+            "tag": "6531"
+          },
+          {
+            "tag": "6535"
+          },
+          {
+            "tag": "6537"
+          },
+          {
+            "tag": "6539"
+          },
+          {
+            "tag": "6544"
+          },
+          {
+            "tag": "6545"
+          },
+          {
+            "tag": "6548"
+          },
+          {
+            "tag": "6549"
+          },
+          {
+            "tag": "6553"
+          },
+          {
+            "tag": "6555"
+          },
+          {
+            "tag": "6558"
+          },
+          {
+            "tag": "6559"
+          },
+          {
+            "tag": "6561"
+          },
+          {
+            "tag": "6564"
+          },
+          {
+            "tag": "6541"
+          },
+          {
+            "tag": "6534"
+          },
+          {
+            "tag": "4839"
+          },
+          {
+            "tag": "6955"
+          },
+          {
+            "tag": "6953"
+          },
+          {
+            "tag": "6951"
+          },
+          {
+            "tag": "3356"
+          },
+          {
+            "tag": "4207"
+          },
+          {
+            "tag": "3357"
+          },
+          {
+            "tag": "5037"
+          },
+          {
+            "tag": "5034"
+          },
+          {
+            "tag": "3689"
+          },
+          {
+            "tag": "7325"
+          },
+          {
+            "tag": "7326"
+          },
+          {
+            "tag": "4254"
+          },
+          {
+            "tag": "4247"
+          },
+          {
+            "tag": "4912"
+          },
+          {
+            "tag": "4908"
+          },
+          {
+            "tag": "4910"
+          },
+          {
+            "tag": "4915"
+          },
+          {
+            "tag": "5962"
+          },
+          {
+            "tag": "5974"
+          },
+          {
+            "tag": "5795"
+          },
+          {
+            "tag": "7036"
+          },
+          {
+            "tag": "5791"
+          },
+          {
+            "tag": "5781"
+          },
+          {
+            "tag": "5805"
+          },
+          {
+            "tag": "5800"
+          },
+          {
+            "tag": "5783"
+          },
+          {
+            "tag": "5913"
+          },
+          {
+            "tag": "5919"
+          },
+          {
+            "tag": "5911"
+          },
+          {
+            "tag": "5917"
+          },
+          {
+            "tag": "5906"
+          },
+          {
+            "tag": "5915"
+          },
+          {
+            "tag": "5921"
+          },
+          {
+            "tag": "5908"
+          },
+          {
+            "tag": "5348"
+          },
+          {
+            "tag": "5346"
+          },
+          {
+            "tag": "5354"
+          },
+          {
+            "tag": "5340"
+          },
+          {
+            "tag": "5344"
+          },
+          {
+            "tag": "5351"
+          },
+          {
+            "tag": "5341"
+          },
+          {
+            "tag": "5338"
+          },
+          {
+            "tag": "5349"
+          },
+          {
+            "tag": "6363"
+          },
+          {
+            "tag": "5905"
+          },
+          {
+            "tag": "5903"
+          },
+          {
+            "tag": "5900"
+          },
+          {
+            "tag": "34648"
+          }
+        ],
+        "title": "Outbound to Paul + Third Street",
+        "useForUI": "true",
+        "tag": "29___O_F00",
+        "name": "Outbound"
+      },
+      {
+        "stop": [
+          {
+            "tag": "4648"
+          },
+          {
+            "tag": "4647"
+          },
+          {
+            "tag": "4646"
+          },
+          {
+            "tag": "4645"
+          },
+          {
+            "tag": "4784"
+          },
+          {
+            "tag": "5955"
+          },
+          {
+            "tag": "5115"
+          },
+          {
+            "tag": "5116"
+          },
+          {
+            "tag": "4976"
+          },
+          {
+            "tag": "4785"
+          },
+          {
+            "tag": "4786"
+          },
+          {
+            "tag": "4783"
+          },
+          {
+            "tag": "5902"
+          },
+          {
+            "tag": "5901"
+          },
+          {
+            "tag": "5899"
+          },
+          {
+            "tag": "5904"
+          },
+          {
+            "tag": "5350"
+          },
+          {
+            "tag": "5337"
+          },
+          {
+            "tag": "5342"
+          },
+          {
+            "tag": "5352"
+          },
+          {
+            "tag": "5343"
+          },
+          {
+            "tag": "5339"
+          },
+          {
+            "tag": "5353"
+          },
+          {
+            "tag": "5345"
+          },
+          {
+            "tag": "5347"
+          },
+          {
+            "tag": "5909"
+          },
+          {
+            "tag": "5920"
+          },
+          {
+            "tag": "5914"
+          },
+          {
+            "tag": "5907"
+          },
+          {
+            "tag": "5916"
+          },
+          {
+            "tag": "5910"
+          },
+          {
+            "tag": "5918"
+          },
+          {
+            "tag": "5912"
+          },
+          {
+            "tag": "5782"
+          },
+          {
+            "tag": "7638"
+          },
+          {
+            "tag": "5804"
+          },
+          {
+            "tag": "7804"
+          },
+          {
+            "tag": "5790"
+          },
+          {
+            "tag": "5794"
+          },
+          {
+            "tag": "5975"
+          },
+          {
+            "tag": "5961"
+          },
+          {
+            "tag": "5960"
+          },
+          {
+            "tag": "7193"
+          },
+          {
+            "tag": "7194"
+          },
+          {
+            "tag": "7195"
+          },
+          {
+            "tag": "4246"
+          },
+          {
+            "tag": "7196"
+          },
+          {
+            "tag": "4253"
+          },
+          {
+            "tag": "4248"
+          },
+          {
+            "tag": "4245"
+          },
+          {
+            "tag": "5036"
+          },
+          {
+            "tag": "390"
+          },
+          {
+            "tag": "6950"
+          },
+          {
+            "tag": "6952"
+          },
+          {
+            "tag": "6954"
+          },
+          {
+            "tag": "4838"
+          },
+          {
+            "tag": "6533"
+          },
+          {
+            "tag": "6542"
+          },
+          {
+            "tag": "6563"
+          },
+          {
+            "tag": "6562"
+          },
+          {
+            "tag": "6560"
+          },
+          {
+            "tag": "6557"
+          },
+          {
+            "tag": "6556"
+          },
+          {
+            "tag": "6554"
+          },
+          {
+            "tag": "6550"
+          },
+          {
+            "tag": "6547"
+          },
+          {
+            "tag": "6546"
+          },
+          {
+            "tag": "6543"
+          },
+          {
+            "tag": "6540"
+          },
+          {
+            "tag": "6538"
+          },
+          {
+            "tag": "6536"
+          },
+          {
+            "tag": "6532"
+          },
+          {
+            "tag": "6530"
+          },
+          {
+            "tag": "6527"
+          },
+          {
+            "tag": "3561"
+          },
+          {
+            "tag": "7853"
+          },
+          {
+            "tag": "5319"
+          },
+          {
+            "tag": "5317"
+          },
+          {
+            "tag": "5315"
+          },
+          {
+            "tag": "5313"
+          },
+          {
+            "tag": "5311"
+          },
+          {
+            "tag": "7758"
+          },
+          {
+            "tag": "6984"
+          },
+          {
+            "tag": "3490"
+          },
+          {
+            "tag": "3501"
+          },
+          {
+            "tag": "3496"
+          },
+          {
+            "tag": "3492"
+          },
+          {
+            "tag": "3503"
+          },
+          {
+            "tag": "3497"
+          },
+          {
+            "tag": "5263"
+          },
+          {
+            "tag": "5269"
+          },
+          {
+            "tag": "33706"
+          }
+        ],
+        "title": "Inbound to Baker Beach",
+        "useForUI": "true",
+        "tag": "29___I_F00",
+        "name": "Inbound"
+      }
+    ],
+    "tag": "29",
+    "path": [
+      {
+        "point": [
+          {
+            "lon": "-122.47724",
+            "lat": "37.76554"
+          },
+          {
+            "lon": "-122.47737",
+            "lat": "37.76607"
+          },
+          {
+            "lon": "-122.47744",
+            "lat": "37.76634"
+          },
+          {
+            "lon": "-122.47757",
+            "lat": "37.76664"
+          },
+          {
+            "lon": "-122.47807",
+            "lat": "37.76737"
+          },
+          {
+            "lon": "-122.47818",
+            "lat": "37.7676299"
+          },
+          {
+            "lon": "-122.47835",
+            "lat": "37.76863"
+          },
+          {
+            "lon": "-122.47838",
+            "lat": "37.76892"
+          },
+          {
+            "lon": "-122.47854",
+            "lat": "37.7695"
+          },
+          {
+            "lon": "-122.47952",
+            "lat": "37.77127"
+          },
+          {
+            "lon": "-122.47982",
+            "lat": "37.7714799"
+          },
+          {
+            "lon": "-122.48029",
+            "lat": "37.77171"
+          },
+          {
+            "lon": "-122.48064",
+            "lat": "37.77179"
+          },
+          {
+            "lon": "-122.48244",
+            "lat": "37.7719499"
+          },
+          {
+            "lon": "-122.48356",
+            "lat": "37.77194"
+          },
+          {
+            "lon": "-122.48384",
+            "lat": "37.772"
+          },
+          {
+            "lon": "-122.48411",
+            "lat": "37.77222"
+          },
+          {
+            "lon": "-122.48408",
+            "lat": "37.77235"
+          },
+          {
+            "lon": "-122.48419",
+            "lat": "37.7725"
+          },
+          {
+            "lon": "-122.48434",
+            "lat": "37.77444"
+          },
+          {
+            "lon": "-122.48436",
+            "lat": "37.77619"
+          },
+          {
+            "lon": "-122.48462",
+            "lat": "37.77993"
+          },
+          {
+            "lon": "-122.48471",
+            "lat": "37.78195"
+          },
+          {
+            "lon": "-122.48485",
+            "lat": "37.78381"
+          },
+          {
+            "lon": "-122.48503",
+            "lat": "37.78569"
+          },
+          {
+            "lon": "-122.4853",
+            "lat": "37.7876199"
+          },
+          {
+            "lon": "-122.48514",
+            "lat": "37.78754"
+          },
+          {
+            "lon": "-122.48416",
+            "lat": "37.78767"
+          },
+          {
+            "lon": "-122.48366",
+            "lat": "37.78778"
+          },
+          {
+            "lon": "-122.48317",
+            "lat": "37.78798"
+          },
+          {
+            "lon": "-122.48281",
+            "lat": "37.78821"
+          },
+          {
+            "lon": "-122.48255",
+            "lat": "37.78844"
+          },
+          {
+            "lon": "-122.48246",
+            "lat": "37.78839"
+          },
+          {
+            "lon": "-122.48215",
+            "lat": "37.78898"
+          },
+          {
+            "lon": "-122.48097",
+            "lat": "37.79209"
+          },
+          {
+            "lon": "-122.48119",
+            "lat": "37.79222"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.4751",
+            "lat": "37.72119"
+          },
+          {
+            "lon": "-122.47511",
+            "lat": "37.72309"
+          },
+          {
+            "lon": "-122.47492",
+            "lat": "37.72692"
+          },
+          {
+            "lon": "-122.47592",
+            "lat": "37.72702"
+          },
+          {
+            "lon": "-122.47782",
+            "lat": "37.7269999"
+          },
+          {
+            "lon": "-122.47826",
+            "lat": "37.72712"
+          },
+          {
+            "lon": "-122.47855",
+            "lat": "37.72742"
+          },
+          {
+            "lon": "-122.4786",
+            "lat": "37.72766"
+          },
+          {
+            "lon": "-122.47849",
+            "lat": "37.72806"
+          },
+          {
+            "lon": "-122.47861",
+            "lat": "37.7281"
+          },
+          {
+            "lon": "-122.47929",
+            "lat": "37.72856"
+          },
+          {
+            "lon": "-122.47981",
+            "lat": "37.72856"
+          },
+          {
+            "lon": "-122.48027",
+            "lat": "37.72834"
+          },
+          {
+            "lon": "-122.48149",
+            "lat": "37.72734"
+          },
+          {
+            "lon": "-122.48194",
+            "lat": "37.72712"
+          },
+          {
+            "lon": "-122.4833",
+            "lat": "37.72712"
+          },
+          {
+            "lon": "-122.48388",
+            "lat": "37.72702"
+          },
+          {
+            "lon": "-122.48401",
+            "lat": "37.72743"
+          },
+          {
+            "lon": "-122.48535",
+            "lat": "37.72904"
+          },
+          {
+            "lon": "-122.48561",
+            "lat": "37.72925"
+          },
+          {
+            "lon": "-122.4864",
+            "lat": "37.72963"
+          },
+          {
+            "lon": "-122.48883",
+            "lat": "37.73031"
+          },
+          {
+            "lon": "-122.4892",
+            "lat": "37.7303799"
+          },
+          {
+            "lon": "-122.48957",
+            "lat": "37.73035"
+          },
+          {
+            "lon": "-122.48994",
+            "lat": "37.73022"
+          },
+          {
+            "lon": "-122.49022",
+            "lat": "37.73004"
+          },
+          {
+            "lon": "-122.49104",
+            "lat": "37.72918"
+          },
+          {
+            "lon": "-122.49149",
+            "lat": "37.72892"
+          },
+          {
+            "lon": "-122.4919",
+            "lat": "37.72885"
+          },
+          {
+            "lon": "-122.49223",
+            "lat": "37.72889"
+          },
+          {
+            "lon": "-122.49325",
+            "lat": "37.7294"
+          },
+          {
+            "lon": "-122.49348",
+            "lat": "37.7296"
+          },
+          {
+            "lon": "-122.49359",
+            "lat": "37.72984"
+          },
+          {
+            "lon": "-122.49352",
+            "lat": "37.73034"
+          },
+          {
+            "lon": "-122.49362",
+            "lat": "37.73183"
+          },
+          {
+            "lon": "-122.49373",
+            "lat": "37.73191"
+          },
+          {
+            "lon": "-122.49368",
+            "lat": "37.73239"
+          },
+          {
+            "lon": "-122.49378",
+            "lat": "37.73485"
+          },
+          {
+            "lon": "-122.49391",
+            "lat": "37.73654"
+          },
+          {
+            "lon": "-122.49408",
+            "lat": "37.73838"
+          },
+          {
+            "lon": "-122.49421",
+            "lat": "37.74024"
+          },
+          {
+            "lon": "-122.49435",
+            "lat": "37.7421099"
+          },
+          {
+            "lon": "-122.49448",
+            "lat": "37.74398"
+          },
+          {
+            "lon": "-122.4946",
+            "lat": "37.74584"
+          },
+          {
+            "lon": "-122.49477",
+            "lat": "37.74807"
+          },
+          {
+            "lon": "-122.49487",
+            "lat": "37.74957"
+          },
+          {
+            "lon": "-122.49502",
+            "lat": "37.7518"
+          },
+          {
+            "lon": "-122.49512",
+            "lat": "37.7533"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.49512",
+            "lat": "37.7533"
+          },
+          {
+            "lon": "-122.49526",
+            "lat": "37.7551599"
+          },
+          {
+            "lon": "-122.49539",
+            "lat": "37.75703"
+          },
+          {
+            "lon": "-122.49552",
+            "lat": "37.75889"
+          },
+          {
+            "lon": "-122.49566",
+            "lat": "37.76077"
+          },
+          {
+            "lon": "-122.49578",
+            "lat": "37.76262"
+          },
+          {
+            "lon": "-122.49589",
+            "lat": "37.76274"
+          },
+          {
+            "lon": "-122.4954",
+            "lat": "37.76339"
+          },
+          {
+            "lon": "-122.49549",
+            "lat": "37.76464"
+          },
+          {
+            "lon": "-122.49537",
+            "lat": "37.76456"
+          },
+          {
+            "lon": "-122.49341",
+            "lat": "37.76471"
+          },
+          {
+            "lon": "-122.48871",
+            "lat": "37.76488"
+          },
+          {
+            "lon": "-122.48551",
+            "lat": "37.76502"
+          },
+          {
+            "lon": "-122.48336",
+            "lat": "37.76511"
+          },
+          {
+            "lon": "-122.48163",
+            "lat": "37.7652"
+          },
+          {
+            "lon": "-122.47949",
+            "lat": "37.76529"
+          },
+          {
+            "lon": "-122.47732",
+            "lat": "37.76545"
+          },
+          {
+            "lon": "-122.47724",
+            "lat": "37.76554"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.4753",
+            "lat": "37.72111"
+          },
+          {
+            "lon": "-122.47524",
+            "lat": "37.72045"
+          },
+          {
+            "lon": "-122.47575",
+            "lat": "37.72001"
+          },
+          {
+            "lon": "-122.47594",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.47612",
+            "lat": "37.7200599"
+          },
+          {
+            "lon": "-122.47609",
+            "lat": "37.71979"
+          },
+          {
+            "lon": "-122.47565",
+            "lat": "37.71974"
+          },
+          {
+            "lon": "-122.47575",
+            "lat": "37.72001"
+          },
+          {
+            "lon": "-122.47537",
+            "lat": "37.72031"
+          },
+          {
+            "lon": "-122.47523",
+            "lat": "37.72106"
+          },
+          {
+            "lon": "-122.475",
+            "lat": "37.72094"
+          },
+          {
+            "lon": "-122.47271",
+            "lat": "37.72149"
+          },
+          {
+            "lon": "-122.472",
+            "lat": "37.72167"
+          },
+          {
+            "lon": "-122.4718",
+            "lat": "37.72161"
+          },
+          {
+            "lon": "-122.47169",
+            "lat": "37.72164"
+          },
+          {
+            "lon": "-122.47174",
+            "lat": "37.71973"
+          },
+          {
+            "lon": "-122.47166",
+            "lat": "37.71965"
+          },
+          {
+            "lon": "-122.46995",
+            "lat": "37.7195899"
+          },
+          {
+            "lon": "-122.46815",
+            "lat": "37.7195899"
+          },
+          {
+            "lon": "-122.46545",
+            "lat": "37.71961"
+          },
+          {
+            "lon": "-122.46447",
+            "lat": "37.7197"
+          },
+          {
+            "lon": "-122.46399",
+            "lat": "37.71976"
+          },
+          {
+            "lon": "-122.46364",
+            "lat": "37.71979"
+          },
+          {
+            "lon": "-122.46312",
+            "lat": "37.72"
+          },
+          {
+            "lon": "-122.46133",
+            "lat": "37.71995"
+          },
+          {
+            "lon": "-122.45929",
+            "lat": "37.71995"
+          },
+          {
+            "lon": "-122.45725",
+            "lat": "37.71996"
+          },
+          {
+            "lon": "-122.45623",
+            "lat": "37.71996"
+          },
+          {
+            "lon": "-122.45615",
+            "lat": "37.72004"
+          },
+          {
+            "lon": "-122.45604",
+            "lat": "37.72176"
+          },
+          {
+            "lon": "-122.45605",
+            "lat": "37.72377"
+          },
+          {
+            "lon": "-122.45616",
+            "lat": "37.72389"
+          },
+          {
+            "lon": "-122.45445",
+            "lat": "37.72333"
+          },
+          {
+            "lon": "-122.45245",
+            "lat": "37.72303"
+          },
+          {
+            "lon": "-122.45204",
+            "lat": "37.72301"
+          },
+          {
+            "lon": "-122.44929",
+            "lat": "37.72286"
+          },
+          {
+            "lon": "-122.44675",
+            "lat": "37.72295"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.39484",
+            "lat": "37.7229"
+          },
+          {
+            "lon": "-122.39332",
+            "lat": "37.7220299"
+          },
+          {
+            "lon": "-122.39145",
+            "lat": "37.72097"
+          },
+          {
+            "lon": "-122.38959",
+            "lat": "37.71992"
+          },
+          {
+            "lon": "-122.38947",
+            "lat": "37.71993"
+          },
+          {
+            "lon": "-122.39003",
+            "lat": "37.7192999"
+          },
+          {
+            "lon": "-122.38827",
+            "lat": "37.71823"
+          },
+          {
+            "lon": "-122.38699",
+            "lat": "37.7175"
+          },
+          {
+            "lon": "-122.38686",
+            "lat": "37.71751"
+          },
+          {
+            "lon": "-122.38792",
+            "lat": "37.71633"
+          },
+          {
+            "lon": "-122.38915",
+            "lat": "37.71688"
+          },
+          {
+            "lon": "-122.38921",
+            "lat": "37.71701"
+          },
+          {
+            "lon": "-122.39022",
+            "lat": "37.7175"
+          },
+          {
+            "lon": "-122.391",
+            "lat": "37.71804"
+          },
+          {
+            "lon": "-122.39115",
+            "lat": "37.71805"
+          },
+          {
+            "lon": "-122.39001",
+            "lat": "37.7192"
+          },
+          {
+            "lon": "-122.39003",
+            "lat": "37.7192999"
+          },
+          {
+            "lon": "-122.39173",
+            "lat": "37.72035"
+          },
+          {
+            "lon": "-122.39359",
+            "lat": "37.72141"
+          },
+          {
+            "lon": "-122.39547",
+            "lat": "37.72239"
+          },
+          {
+            "lon": "-122.39541",
+            "lat": "37.72246"
+          },
+          {
+            "lon": "-122.39583",
+            "lat": "37.72244"
+          },
+          {
+            "lon": "-122.39795",
+            "lat": "37.72301"
+          },
+          {
+            "lon": "-122.39908",
+            "lat": "37.72329"
+          },
+          {
+            "lon": "-122.40059",
+            "lat": "37.72365"
+          },
+          {
+            "lon": "-122.40158",
+            "lat": "37.72388"
+          },
+          {
+            "lon": "-122.40207",
+            "lat": "37.72393"
+          },
+          {
+            "lon": "-122.40114",
+            "lat": "37.72167"
+          },
+          {
+            "lon": "-122.40139",
+            "lat": "37.72154"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.44495",
+            "lat": "37.723"
+          },
+          {
+            "lon": "-122.44693",
+            "lat": "37.72303"
+          },
+          {
+            "lon": "-122.44728",
+            "lat": "37.72296"
+          },
+          {
+            "lon": "-122.44917",
+            "lat": "37.72296"
+          },
+          {
+            "lon": "-122.44978",
+            "lat": "37.72302"
+          },
+          {
+            "lon": "-122.45204",
+            "lat": "37.72301"
+          },
+          {
+            "lon": "-122.454",
+            "lat": "37.72346"
+          },
+          {
+            "lon": "-122.45616",
+            "lat": "37.72389"
+          },
+          {
+            "lon": "-122.45623",
+            "lat": "37.72364"
+          },
+          {
+            "lon": "-122.45623",
+            "lat": "37.72193"
+          },
+          {
+            "lon": "-122.45622",
+            "lat": "37.72011"
+          },
+          {
+            "lon": "-122.45615",
+            "lat": "37.72004"
+          },
+          {
+            "lon": "-122.45703",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.45907",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.46111",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.46312",
+            "lat": "37.72"
+          },
+          {
+            "lon": "-122.46346",
+            "lat": "37.71999"
+          },
+          {
+            "lon": "-122.46399",
+            "lat": "37.71976"
+          },
+          {
+            "lon": "-122.46447",
+            "lat": "37.7197"
+          },
+          {
+            "lon": "-122.46523",
+            "lat": "37.71976"
+          },
+          {
+            "lon": "-122.46794",
+            "lat": "37.71975"
+          },
+          {
+            "lon": "-122.46973",
+            "lat": "37.71974"
+          },
+          {
+            "lon": "-122.47153",
+            "lat": "37.71972"
+          },
+          {
+            "lon": "-122.47241",
+            "lat": "37.71967"
+          },
+          {
+            "lon": "-122.47233",
+            "lat": "37.72163"
+          },
+          {
+            "lon": "-122.47295",
+            "lat": "37.72159"
+          },
+          {
+            "lon": "-122.47503",
+            "lat": "37.72115"
+          },
+          {
+            "lon": "-122.4751",
+            "lat": "37.72119"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.40139",
+            "lat": "37.72154"
+          },
+          {
+            "lon": "-122.40207",
+            "lat": "37.72128"
+          },
+          {
+            "lon": "-122.40307",
+            "lat": "37.7211"
+          },
+          {
+            "lon": "-122.40434",
+            "lat": "37.72077"
+          },
+          {
+            "lon": "-122.40512",
+            "lat": "37.7205299"
+          },
+          {
+            "lon": "-122.40692",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.40889",
+            "lat": "37.71958"
+          },
+          {
+            "lon": "-122.41126",
+            "lat": "37.71896"
+          },
+          {
+            "lon": "-122.41446",
+            "lat": "37.71812"
+          },
+          {
+            "lon": "-122.41446",
+            "lat": "37.71805"
+          },
+          {
+            "lon": "-122.41476",
+            "lat": "37.71801"
+          },
+          {
+            "lon": "-122.41514",
+            "lat": "37.71805"
+          },
+          {
+            "lon": "-122.41852",
+            "lat": "37.71877"
+          },
+          {
+            "lon": "-122.4188",
+            "lat": "37.7189"
+          },
+          {
+            "lon": "-122.41974",
+            "lat": "37.71896"
+          },
+          {
+            "lon": "-122.42014",
+            "lat": "37.71895"
+          },
+          {
+            "lon": "-122.42053",
+            "lat": "37.71888"
+          },
+          {
+            "lon": "-122.42091",
+            "lat": "37.71876"
+          },
+          {
+            "lon": "-122.42119",
+            "lat": "37.71864"
+          },
+          {
+            "lon": "-122.42278",
+            "lat": "37.71779"
+          },
+          {
+            "lon": "-122.42354",
+            "lat": "37.71721"
+          },
+          {
+            "lon": "-122.42379",
+            "lat": "37.7171"
+          },
+          {
+            "lon": "-122.42427",
+            "lat": "37.71703"
+          },
+          {
+            "lon": "-122.42467",
+            "lat": "37.71714"
+          },
+          {
+            "lon": "-122.42495",
+            "lat": "37.71727"
+          },
+          {
+            "lon": "-122.42519",
+            "lat": "37.71749"
+          },
+          {
+            "lon": "-122.42542",
+            "lat": "37.71789"
+          },
+          {
+            "lon": "-122.42562",
+            "lat": "37.71814"
+          },
+          {
+            "lon": "-122.42706",
+            "lat": "37.71896"
+          },
+          {
+            "lon": "-122.42868",
+            "lat": "37.71973"
+          },
+          {
+            "lon": "-122.42947",
+            "lat": "37.72011"
+          },
+          {
+            "lon": "-122.43107",
+            "lat": "37.72088"
+          },
+          {
+            "lon": "-122.43267",
+            "lat": "37.72164"
+          },
+          {
+            "lon": "-122.43428",
+            "lat": "37.72241"
+          },
+          {
+            "lon": "-122.43584",
+            "lat": "37.7231499"
+          },
+          {
+            "lon": "-122.43599",
+            "lat": "37.72314"
+          },
+          {
+            "lon": "-122.43646",
+            "lat": "37.72379"
+          },
+          {
+            "lon": "-122.43867",
+            "lat": "37.72367"
+          },
+          {
+            "lon": "-122.43986",
+            "lat": "37.72349"
+          },
+          {
+            "lon": "-122.44082",
+            "lat": "37.72343"
+          },
+          {
+            "lon": "-122.44495",
+            "lat": "37.723"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.44675",
+            "lat": "37.72295"
+          },
+          {
+            "lon": "-122.4444",
+            "lat": "37.7229"
+          },
+          {
+            "lon": "-122.44329",
+            "lat": "37.72309"
+          },
+          {
+            "lon": "-122.44124",
+            "lat": "37.72326"
+          },
+          {
+            "lon": "-122.43853",
+            "lat": "37.72357"
+          },
+          {
+            "lon": "-122.43703",
+            "lat": "37.72373"
+          },
+          {
+            "lon": "-122.43646",
+            "lat": "37.72379"
+          },
+          {
+            "lon": "-122.43599",
+            "lat": "37.72314"
+          },
+          {
+            "lon": "-122.43576",
+            "lat": "37.72294"
+          },
+          {
+            "lon": "-122.43456",
+            "lat": "37.72238"
+          },
+          {
+            "lon": "-122.43296",
+            "lat": "37.72161"
+          },
+          {
+            "lon": "-122.43136",
+            "lat": "37.72085"
+          },
+          {
+            "lon": "-122.4295",
+            "lat": "37.72014"
+          },
+          {
+            "lon": "-122.42896",
+            "lat": "37.7197"
+          },
+          {
+            "lon": "-122.42735",
+            "lat": "37.71893"
+          },
+          {
+            "lon": "-122.42562",
+            "lat": "37.71814"
+          },
+          {
+            "lon": "-122.42542",
+            "lat": "37.71789"
+          },
+          {
+            "lon": "-122.42519",
+            "lat": "37.71749"
+          },
+          {
+            "lon": "-122.42495",
+            "lat": "37.71727"
+          },
+          {
+            "lon": "-122.42467",
+            "lat": "37.71714"
+          },
+          {
+            "lon": "-122.42427",
+            "lat": "37.71703"
+          },
+          {
+            "lon": "-122.42379",
+            "lat": "37.7171"
+          },
+          {
+            "lon": "-122.42354",
+            "lat": "37.71721"
+          },
+          {
+            "lon": "-122.4225",
+            "lat": "37.71778"
+          },
+          {
+            "lon": "-122.42119",
+            "lat": "37.71864"
+          },
+          {
+            "lon": "-122.42091",
+            "lat": "37.71876"
+          },
+          {
+            "lon": "-122.42053",
+            "lat": "37.71888"
+          },
+          {
+            "lon": "-122.42014",
+            "lat": "37.71895"
+          },
+          {
+            "lon": "-122.41974",
+            "lat": "37.71896"
+          },
+          {
+            "lon": "-122.41926",
+            "lat": "37.71891"
+          },
+          {
+            "lon": "-122.41863",
+            "lat": "37.71872"
+          },
+          {
+            "lon": "-122.41514",
+            "lat": "37.71805"
+          },
+          {
+            "lon": "-122.41476",
+            "lat": "37.71801"
+          },
+          {
+            "lon": "-122.41446",
+            "lat": "37.71805"
+          },
+          {
+            "lon": "-122.41426",
+            "lat": "37.71804"
+          },
+          {
+            "lon": "-122.41136",
+            "lat": "37.71877"
+          },
+          {
+            "lon": "-122.40906",
+            "lat": "37.71938"
+          },
+          {
+            "lon": "-122.40709",
+            "lat": "37.71989"
+          },
+          {
+            "lon": "-122.40509",
+            "lat": "37.72042"
+          },
+          {
+            "lon": "-122.4041",
+            "lat": "37.72068"
+          },
+          {
+            "lon": "-122.40312",
+            "lat": "37.72093"
+          },
+          {
+            "lon": "-122.40115",
+            "lat": "37.72144"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.44495",
+            "lat": "37.723"
+          },
+          {
+            "lon": "-122.44693",
+            "lat": "37.72303"
+          },
+          {
+            "lon": "-122.44978",
+            "lat": "37.72302"
+          },
+          {
+            "lon": "-122.45204",
+            "lat": "37.72301"
+          },
+          {
+            "lon": "-122.454",
+            "lat": "37.72346"
+          },
+          {
+            "lon": "-122.45616",
+            "lat": "37.72389"
+          },
+          {
+            "lon": "-122.45623",
+            "lat": "37.72364"
+          },
+          {
+            "lon": "-122.45623",
+            "lat": "37.72193"
+          },
+          {
+            "lon": "-122.45622",
+            "lat": "37.72011"
+          },
+          {
+            "lon": "-122.45615",
+            "lat": "37.72004"
+          },
+          {
+            "lon": "-122.45703",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.45907",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.46111",
+            "lat": "37.7201"
+          },
+          {
+            "lon": "-122.46312",
+            "lat": "37.72"
+          },
+          {
+            "lon": "-122.46346",
+            "lat": "37.71999"
+          },
+          {
+            "lon": "-122.46399",
+            "lat": "37.71976"
+          },
+          {
+            "lon": "-122.46447",
+            "lat": "37.7197"
+          },
+          {
+            "lon": "-122.46523",
+            "lat": "37.71976"
+          },
+          {
+            "lon": "-122.46794",
+            "lat": "37.71975"
+          },
+          {
+            "lon": "-122.46973",
+            "lat": "37.71974"
+          },
+          {
+            "lon": "-122.47153",
+            "lat": "37.71972"
+          },
+          {
+            "lon": "-122.47241",
+            "lat": "37.71967"
+          },
+          {
+            "lon": "-122.47233",
+            "lat": "37.72163"
+          },
+          {
+            "lon": "-122.47295",
+            "lat": "37.72159"
+          },
+          {
+            "lon": "-122.47503",
+            "lat": "37.72115"
+          },
+          {
+            "lon": "-122.4751",
+            "lat": "37.72119"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.40115",
+            "lat": "37.72144"
+          },
+          {
+            "lon": "-122.40109",
+            "lat": "37.72154"
+          },
+          {
+            "lon": "-122.40186",
+            "lat": "37.72365"
+          },
+          {
+            "lon": "-122.40207",
+            "lat": "37.72393"
+          },
+          {
+            "lon": "-122.4008",
+            "lat": "37.7236199"
+          },
+          {
+            "lon": "-122.4002",
+            "lat": "37.7234"
+          },
+          {
+            "lon": "-122.39738",
+            "lat": "37.72273"
+          },
+          {
+            "lon": "-122.39634",
+            "lat": "37.72249"
+          },
+          {
+            "lon": "-122.39583",
+            "lat": "37.72244"
+          },
+          {
+            "lon": "-122.39505",
+            "lat": "37.7231"
+          },
+          {
+            "lon": "-122.39484",
+            "lat": "37.7229"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.48119",
+            "lat": "37.79222"
+          },
+          {
+            "lon": "-122.48192",
+            "lat": "37.79188"
+          },
+          {
+            "lon": "-122.48214",
+            "lat": "37.79173"
+          },
+          {
+            "lon": "-122.48225",
+            "lat": "37.7915"
+          },
+          {
+            "lon": "-122.48213",
+            "lat": "37.7911"
+          },
+          {
+            "lon": "-122.48202",
+            "lat": "37.79089"
+          },
+          {
+            "lon": "-122.48205",
+            "lat": "37.79055"
+          },
+          {
+            "lon": "-122.48226",
+            "lat": "37.79025"
+          },
+          {
+            "lon": "-122.48229",
+            "lat": "37.79015"
+          },
+          {
+            "lon": "-122.48237",
+            "lat": "37.7899"
+          },
+          {
+            "lon": "-122.48248",
+            "lat": "37.78889"
+          },
+          {
+            "lon": "-122.48241",
+            "lat": "37.78864"
+          },
+          {
+            "lon": "-122.48255",
+            "lat": "37.78844"
+          },
+          {
+            "lon": "-122.48262",
+            "lat": "37.7884699"
+          },
+          {
+            "lon": "-122.48281",
+            "lat": "37.78821"
+          },
+          {
+            "lon": "-122.48317",
+            "lat": "37.78798"
+          },
+          {
+            "lon": "-122.48366",
+            "lat": "37.78778"
+          },
+          {
+            "lon": "-122.48416",
+            "lat": "37.78767"
+          },
+          {
+            "lon": "-122.4853",
+            "lat": "37.7876199"
+          },
+          {
+            "lon": "-122.48536",
+            "lat": "37.78737"
+          },
+          {
+            "lon": "-122.48524",
+            "lat": "37.78587"
+          },
+          {
+            "lon": "-122.4851",
+            "lat": "37.784"
+          },
+          {
+            "lon": "-122.48497",
+            "lat": "37.78215"
+          },
+          {
+            "lon": "-122.48484",
+            "lat": "37.78026"
+          },
+          {
+            "lon": "-122.48456",
+            "lat": "37.77642"
+          },
+          {
+            "lon": "-122.48429",
+            "lat": "37.77269"
+          },
+          {
+            "lon": "-122.48417",
+            "lat": "37.77234"
+          },
+          {
+            "lon": "-122.484",
+            "lat": "37.7721"
+          },
+          {
+            "lon": "-122.48367",
+            "lat": "37.7719499"
+          },
+          {
+            "lon": "-122.48259",
+            "lat": "37.7719499"
+          },
+          {
+            "lon": "-122.48041",
+            "lat": "37.77174"
+          },
+          {
+            "lon": "-122.48005",
+            "lat": "37.7716"
+          },
+          {
+            "lon": "-122.47964",
+            "lat": "37.77134"
+          },
+          {
+            "lon": "-122.47939",
+            "lat": "37.77104"
+          },
+          {
+            "lon": "-122.47854",
+            "lat": "37.7695"
+          },
+          {
+            "lon": "-122.47807",
+            "lat": "37.76737"
+          },
+          {
+            "lon": "-122.47757",
+            "lat": "37.76664"
+          },
+          {
+            "lon": "-122.47744",
+            "lat": "37.76634"
+          },
+          {
+            "lon": "-122.47737",
+            "lat": "37.76607"
+          },
+          {
+            "lon": "-122.47732",
+            "lat": "37.76545"
+          },
+          {
+            "lon": "-122.47761",
+            "lat": "37.76553"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.47761",
+            "lat": "37.76553"
+          },
+          {
+            "lon": "-122.4797",
+            "lat": "37.76543"
+          },
+          {
+            "lon": "-122.48184",
+            "lat": "37.76533"
+          },
+          {
+            "lon": "-122.48399",
+            "lat": "37.76522"
+          },
+          {
+            "lon": "-122.48614",
+            "lat": "37.76513"
+          },
+          {
+            "lon": "-122.48827",
+            "lat": "37.76503"
+          },
+          {
+            "lon": "-122.49042",
+            "lat": "37.76494"
+          },
+          {
+            "lon": "-122.49256",
+            "lat": "37.76484"
+          },
+          {
+            "lon": "-122.49471",
+            "lat": "37.76475"
+          },
+          {
+            "lon": "-122.49656",
+            "lat": "37.7646"
+          },
+          {
+            "lon": "-122.49662",
+            "lat": "37.76436"
+          },
+          {
+            "lon": "-122.49652",
+            "lat": "37.76399"
+          },
+          {
+            "lon": "-122.49621",
+            "lat": "37.76358"
+          },
+          {
+            "lon": "-122.49608",
+            "lat": "37.76324"
+          },
+          {
+            "lon": "-122.49604",
+            "lat": "37.76301"
+          },
+          {
+            "lon": "-122.49589",
+            "lat": "37.76274"
+          },
+          {
+            "lon": "-122.49595",
+            "lat": "37.7625"
+          },
+          {
+            "lon": "-122.49585",
+            "lat": "37.76101"
+          },
+          {
+            "lon": "-122.49571",
+            "lat": "37.75913"
+          },
+          {
+            "lon": "-122.49558",
+            "lat": "37.75727"
+          },
+          {
+            "lon": "-122.49546",
+            "lat": "37.7554"
+          },
+          {
+            "lon": "-122.49532",
+            "lat": "37.75354"
+          }
+        ]
+      },
+      {
+        "point": [
+          {
+            "lon": "-122.49532",
+            "lat": "37.75354"
+          },
+          {
+            "lon": "-122.49517",
+            "lat": "37.7513099"
+          },
+          {
+            "lon": "-122.49506",
+            "lat": "37.7498099"
+          },
+          {
+            "lon": "-122.49491",
+            "lat": "37.74758"
+          },
+          {
+            "lon": "-122.4948",
+            "lat": "37.74608"
+          },
+          {
+            "lon": "-122.49467",
+            "lat": "37.74422"
+          },
+          {
+            "lon": "-122.49454",
+            "lat": "37.74235"
+          },
+          {
+            "lon": "-122.49438",
+            "lat": "37.74012"
+          },
+          {
+            "lon": "-122.49428",
+            "lat": "37.73862"
+          },
+          {
+            "lon": "-122.49415",
+            "lat": "37.7367599"
+          },
+          {
+            "lon": "-122.49406",
+            "lat": "37.73478"
+          },
+          {
+            "lon": "-122.49386",
+            "lat": "37.73203"
+          },
+          {
+            "lon": "-122.49359",
+            "lat": "37.72984"
+          },
+          {
+            "lon": "-122.49365",
+            "lat": "37.7298"
+          },
+          {
+            "lon": "-122.49348",
+            "lat": "37.7296"
+          },
+          {
+            "lon": "-122.49325",
+            "lat": "37.7294"
+          },
+          {
+            "lon": "-122.49223",
+            "lat": "37.72889"
+          },
+          {
+            "lon": "-122.4919",
+            "lat": "37.72885"
+          },
+          {
+            "lon": "-122.49149",
+            "lat": "37.72892"
+          },
+          {
+            "lon": "-122.49104",
+            "lat": "37.72918"
+          },
+          {
+            "lon": "-122.49022",
+            "lat": "37.73004"
+          },
+          {
+            "lon": "-122.48994",
+            "lat": "37.73022"
+          },
+          {
+            "lon": "-122.48957",
+            "lat": "37.73035"
+          },
+          {
+            "lon": "-122.4892",
+            "lat": "37.7303799"
+          },
+          {
+            "lon": "-122.48883",
+            "lat": "37.73031"
+          },
+          {
+            "lon": "-122.48656",
+            "lat": "37.72959"
+          },
+          {
+            "lon": "-122.48629",
+            "lat": "37.7294399"
+          },
+          {
+            "lon": "-122.4858",
+            "lat": "37.72936"
+          },
+          {
+            "lon": "-122.48551",
+            "lat": "37.72919"
+          },
+          {
+            "lon": "-122.48401",
+            "lat": "37.72743"
+          },
+          {
+            "lon": "-122.48388",
+            "lat": "37.72702"
+          },
+          {
+            "lon": "-122.48331",
+            "lat": "37.72698"
+          },
+          {
+            "lon": "-122.48194",
+            "lat": "37.72712"
+          },
+          {
+            "lon": "-122.48149",
+            "lat": "37.72734"
+          },
+          {
+            "lon": "-122.48027",
+            "lat": "37.72834"
+          },
+          {
+            "lon": "-122.47981",
+            "lat": "37.72856"
+          },
+          {
+            "lon": "-122.47929",
+            "lat": "37.72856"
+          },
+          {
+            "lon": "-122.47871",
+            "lat": "37.72822"
+          },
+          {
+            "lon": "-122.47867",
+            "lat": "37.728"
+          },
+          {
+            "lon": "-122.47855",
+            "lat": "37.72742"
+          },
+          {
+            "lon": "-122.47826",
+            "lat": "37.72712"
+          },
+          {
+            "lon": "-122.47782",
+            "lat": "37.7269999"
+          },
+          {
+            "lon": "-122.47574",
+            "lat": "37.72688"
+          },
+          {
+            "lon": "-122.47519",
+            "lat": "37.72693"
+          },
+          {
+            "lon": "-122.47498",
+            "lat": "37.72569"
+          },
+          {
+            "lon": "-122.4753",
+            "lat": "37.72111"
+          }
+        ]
+      }
+    ],
+    "lonMax": "-122.38699",
+    "oppositeColor": "000000",
+    "latMin": "37.71701"
+  },
+  "copyright": "All data copyright San Francisco Muni 2017."
+}
