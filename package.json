@@ -12,12 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/idewz/xbus-api.git"
   },
-  "keywords": [
-    "bus",
-    "schedule",
-    "transit",
-    "real-time"
-  ],
+  "keywords": ["bus", "schedule", "transit", "real-time"],
   "author": "Siwadon Saosoong",
   "license": "MIT",
   "bugs": {
