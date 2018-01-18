@@ -5,9 +5,8 @@
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src/ -d lib/",
-    "flow": "flow",
     "prepublish": "npm run build",
-    "test": "mocha --reporter spec"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,12 +25,14 @@
   },
   "homepage": "https://github.com/idewz/xbus-api#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-es2016": "^6.24.1",
-    "babel-preset-flow": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.1.0",
+    "babel-preset-env": "^1.6.1",
     "chai": "^3.5.0",
-    "flow-bin": "^0.44.0",
-    "mocha": "^3.2.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^22.1.2",
     "nock": "^9.0.13"
   },
   "dependencies": {
