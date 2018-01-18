@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/idewz/xbus-api.git"
   },
-  "keywords": ["bus", "schedule", "transit", "real-time"],
+  "keywords": [
+    "bus",
+    "schedule",
+    "transit",
+    "real-time"
+  ],
   "author": "Siwadon Saosoong",
   "license": "MIT",
   "bugs": {
@@ -26,6 +31,7 @@
     "babel-preset-env": "^1.6.1",
     "chai": "^3.5.0",
     "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-import": "^2.8.0",
     "jest": "^22.1.2",
     "nock": "^9.0.13"

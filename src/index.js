@@ -1,5 +1,3 @@
-'use strict';
-
 const fs = require('fs');
 const request = require('superagent');
 const geolib = require('geolib');
@@ -47,21 +45,26 @@ module.exports = class XBus {
   }
 
   async getPredictions(id, stopId) {
-    const qs = { command: 'predictions', a: id, stopId: stopId };
+    const qs = { command: 'predictions', a: id, stopId };
     const res = await this.fetch(qs);
 
     return res.predictions;
   }
 
-  async getPredictions(id, stopId, routeTag) {
-    const qs = { command: 'predictions', a: id, stopId: stopId, r: routeTag };
+  async getPredictionsWithRoute(id, stopId, routeTag) {
+    const qs = {
+      command: 'predictions',
+      a: id,
+      stopId,
+      r: routeTag,
+    };
     const res = await this.fetch(qs);
 
     return res.predictions;
   }
 
-  async findDirection(routeDirection, stopTag) {
-    let direction = {};
+  static async findDirection(routeDirection, stopTag) {
+    const direction = {};
 
     if (Array.isArray(routeDirection)) {
       const inboundRoute = routeDirection.find(d => d.name === 'Inbound');
@@ -84,8 +87,8 @@ module.exports = class XBus {
 
   async getAllStops(agency) {
     const filepath = `./tmp/stops-${agency}.json`;
-    let stops = [];
-    let ids = [];
+    const stops = [];
+    const ids = [];
 
     // use cache if possible
     if (fs.existsSync(filepath)) {
@@ -95,15 +98,15 @@ module.exports = class XBus {
 
     const routes = await this.getRoutes(agency);
 
-    for (let r of routes) {
+    routes.forEach(async r => {
       const route = await this.getRouteConfig(agency, r.tag);
 
-      for (let s of route.stop) {
+      route.stop.forEach(async s => {
         const id = s.stopId;
 
         if (ids.indexOf(id) === -1) {
           stops.push({
-            id: id,
+            id,
             tag: s.tag,
             name: s.title,
             lat: s.lat,
@@ -113,8 +116,8 @@ module.exports = class XBus {
         }
 
         ids.push(id);
-      }
-    }
+      });
+    });
 
     // write to file for caching
     fs.writeFile(filepath, JSON.stringify(stops), err => {
@@ -128,8 +131,8 @@ module.exports = class XBus {
     return stops;
   }
 
-  async getNearbyAgencies(location) {
-    return 'sf-muni';
+  static async getNearbyAgencies(location = 'sf-muni') {
+    return location;
   }
 
   async getNearbyStops(location, n) {
@@ -138,25 +141,24 @@ module.exports = class XBus {
     const nearestStops = [];
     const nearestStopIds = geolib.findNearest(location, stops, 0, n);
 
-    nearestStopIds.forEach(n => {
-      nearestStops.push(stops[n.key]);
+    nearestStopIds.forEach(stop => {
+      nearestStops.push(stops[stop.key]);
     });
 
     return nearestStops;
   }
 
   async getNearbyPredictions(location, n) {
-    let plist = {};
+    const plist = {};
     const agency = await this.getNearbyAgencies(location);
     const stops = await this.getNearbyStops(location, n);
 
     // route / direction / stop / time
-    for (let s of stops) {
+    stops.forEach(async s => {
       // console.log(`get predtiction for ${s.id}, ${s.tag}: ${s.name} (${s.dir.name})`);
+      const pAtStop = await this.getPredictions(agency, s.id);
 
-      const p_at_stop = await this.getPredictions(agency, s.id);
-
-      var addPrediction = p => {
+      const addPrediction = p => {
         if (p.direction) {
           if (!plist.hasOwnProperty(p.routeTag)) {
             plist[p.routeTag] = {};
@@ -179,21 +181,21 @@ module.exports = class XBus {
             id: s.id,
             tag: p.stopTag,
             name: p.stopTitle,
-            time: time,
+            time,
           };
 
           plist[p.routeTag][direction].push(stop);
         }
       };
 
-      if (Array.isArray(p_at_stop)) {
-        p_at_stop.forEach(p => {
+      if (Array.isArray(pAtStop)) {
+        pAtStop.forEach(p => {
           addPrediction(p);
         });
       } else {
-        addPrediction(p_at_stop);
+        addPrediction(pAtStop);
       }
-    }
+    });
 
     return plist;
   }
